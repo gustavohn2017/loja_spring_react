@@ -10,4 +10,8 @@ public class StoreApplication {
 		SpringApplication.run(StoreApplication.class, args);
 	}
 
+
 }
+/*TODO
+ *  Criar crud de marca e produto!
+ */
